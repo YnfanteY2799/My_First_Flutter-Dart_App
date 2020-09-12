@@ -20,7 +20,7 @@ class _ContadorPageState extends State <ContadorPage>{
     return Scaffold(  
     
       appBar: AppBar(
-        title: Text(_contador < 10 ? "Statfeul example" : whatto),
+        title: Text(_contador < 10 ? "Statfeul example" : "App Made by: Yassett Jose Ynf"),
         centerTitle: true,
       ),
       body: Center(
